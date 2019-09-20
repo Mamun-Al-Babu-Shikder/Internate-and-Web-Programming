@@ -1,0 +1,150 @@
+﻿A B1 Tablet
+100 mg
+Thiamine Hydrochloride
+Acme Laboratories Limited.
+Unit Price : ৳ 0.86
+A Ben DS Tablet
+400 mg
+Albendazole
+Team Pharmaceuticals Ltd.
+Unit Price : ৳ 4.50
+A Cal Chewable Tablet
+250 mg
+Calcium Carbonate
+Acme Laboratories Limited.
+Unit Price : ৳ 1.50
+A Cal Tablet
+250 mg
+Calcium Carbonate
+Acme Laboratories Limited.
+Unit Price : ৳ 1.00
+A Cal Tablet
+500 mg
+Calcium Carbonate
+Acme Laboratories Limited.
+Unit Price : ৳ 6.01
+A Card Tablet
+20 mg
+Isosorbide Mononitrate
+Acme Laboratories Limited.
+Unit Price : ৳ 1.42
+A Card SR Tablet (Sustained Release)
+50 mg
+Isosorbide Mononitrate
+Acme Laboratories Limited.
+Price not available
+A Care Tablet
+6 mg+200 mg+50 mg
+Betacarotene + Vitamin C + Vitamin E
+Asiatic Laboratories Ltd.
+Unit Price : ৳ 2.50
+A Crom Eye Drop
+2%
+Sodium Cromoglicate 2% (Eye/Nasal Drops)
+Acme Laboratories Limited.
+Price not available
+A Fenac Gel
+1% w/w
+Diclofenac Sodium
+Acme Laboratories Limited.
+10 gm tube : ৳ 13.05
+A Fenac Cream
+1% w/w
+Diclofenac Sodium
+Acme Laboratories Limited.
+10 gm tube : ৳ 13.05
+A Fenac K Tablet
+50 mg
+Diclofenac Potassium
+Acme Laboratories Limited.
+Unit Price : ৳ 3.00
+A Forte Gel
+0.025%
+Tretinoin
+Globe Pharmaceuticals Limited.
+Price not available
+A Mycin Lotion
+3%
+Erythromycin (Lotion)
+Aristopharma Ltd.
+25 ml bottle : ৳ 120.00
+A Rifam Capsule
+150 mg
+Rifampicin
+Acme Laboratories Limited.
+Price not available
+A Rifam Capsule
+450 mg
+Rifampicin
+Acme Laboratories Limited.
+Price not available
+A S A Tablet
+300 mg
+Aspirin
+Apex Pharmaceuticals Ltd.
+Price not available
+A S A CV Tablet
+75 mg
+Aspirin
+Apex Pharmaceuticals Ltd.
+Price not available
+A Spasm Tablet
+5 mg
+Oxyphenonium Bromide (Oral preparation)
+Acme Laboratories Limited.
+Unit Price : ৳ 1.44
+A Tetra Capsule
+500 mg
+Tetracycline Hydrochloride (Oral preparation)
+Acme Laboratories Limited.
+Unit Price : ৳ 2.03
+A Tetra Tablet
+500 mg
+Tetracycline Hydrochloride (Oral preparation)
+Acme Laboratories Limited.
+Unit Price : ৳ 2.29
+A Tropin Eye Drop
+1%
+Atropine Sulfate
+Acme Laboratories Limited.
+Price not available
+A VIT Soft Gelatin Capsule
+100000 IU
+Vitamin A
+Globe Pharmaceuticals Limited.
+Unit Price : ৳ 2.83
+A VIT Soft Gelatin Capsule
+200000 IU
+Vitamin A
+Globe Pharmaceuticals Limited.
+Unit Price : ৳ 4.04
+A Zide Tablet
+50 mg+5 mg
+Hydrochlorothiazide + Amiloride
+Acme Laboratories Limited.
+Price not available
+A-Cal D Tablet
+500 mg+200 IU
+Calcium Carbonate (Elemental) + Vitamin D
+Acme Laboratories Limited.
+Unit Price : ৳ 5.00
+A-Cal DX Tablet
+500 mg+400 IU
+Calcium Carbonate (Elemental) + Vitamin D
+Acme Laboratories Limited.
+Unit Price : ৳ 5.01
+A-Clam Tablet
+50 mg
+Tolperisone Hydrochloride
+Acme Laboratories Limited.
+Unit Price : ৳ 4.00
+A-Clox Capsule
+500 mg
+Cloxacillin
+Acme Laboratories Limited.
+Unit Price : ৳ 5.96
+A-Clox Powder for Suspension
+125 mg/5 ml
+Cloxacillin
+Acme Laboratories Limited.
+100 ml bottle : ৳ 44.83
